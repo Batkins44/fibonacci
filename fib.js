@@ -15,7 +15,7 @@ for (i = 0;i < 10;i++){
 fibPrev = fibNext
 fibNext = fibonacci
 fibonacci = fibNext + fibPrev;
-console.log(fibonacci);
+alert(fibonacci);
 }
 
 }
